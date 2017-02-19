@@ -16,3 +16,13 @@ Process for creating articles feature test and feature
 expectactions:
 - Article has been created
 - articles path
+- 
+
+
+Listin Articles feauture test
+- create branch
+- create 2 articles to display
+
+- list the two articles 
+
+- expect both article titles and bodies to be present  
